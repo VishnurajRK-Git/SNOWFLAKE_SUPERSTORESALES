@@ -1,5 +1,5 @@
 # SNOWFLAKE_SUPERSTORESALES
-
+A Project to build dataware house for Superstoresales data in snowflake. It involves Automated data ingestion from stage using pipe. And Scheduled Data flow between Layers - Bronze --> Silver --> Gold using Store procedures and Tasks.
 Here We use SuperStore Sales data From Kaggle.
 
 Repo layout:
