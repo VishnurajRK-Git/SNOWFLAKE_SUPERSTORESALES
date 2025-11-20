@@ -2,7 +2,7 @@
 
 1. Task-2 - Periodical Refresh of data ingestion pipe
 2. Scheduled at Every day 5:15pm IST (UTC - 5:30)
-3. Idealy this task is meant to execute after the task 1 but not explicitly defined
+3. Idealy this task is meant to execute after the task 2 and explicitly defined sunig "AFTER'
 
 */
 
