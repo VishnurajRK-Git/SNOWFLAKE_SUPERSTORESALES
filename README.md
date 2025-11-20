@@ -7,16 +7,16 @@ Repo layout:
  
     The following Code depicts the building database setup
     DB
-    --- L1_Bronze
-        --- RAW TABLE
-    --- L2_Silver
-        --- CLEAN TABLE
-    --- L3_GOLD (Schema with Dimension and facts table)
-        --- CUSTOMER DIM TABLE
-        --- PRODUCT DIM TABLE
-        --- SHIPMENT DIM TABLE
-        --- DATE DIM TABLE
-        --- ORDER FACT TABLE
+  --- L1_Bronze
+      --- RAW TABLE
+  --- L2_Silver
+      --- CLEAN TABLE
+  --- L3_GOLD (Schema with Dimension and facts table)
+      --- CUSTOMER DIM TABLE
+      --- PRODUCT DIM TABLE
+      --- SHIPMENT DIM TABLE
+      --- DATE DIM TABLE
+      --- ORDER FACT TABLE
 
 - procedures/     -- stored procedures
 
